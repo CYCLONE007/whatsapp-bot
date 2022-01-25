@@ -61,7 +61,7 @@
         "WARN_MSG": {
             "description": "Message send while kicking.",
             "required": false,
-            "value": "OK bie"
+            "value": "Seri enal ok bie"
         },
         "REMOVEBG_KEY": {
             "description": "Get your key from remove.bg",
@@ -70,11 +70,11 @@
         },
         "LANGUAGE": {
             "description": "Enter bot language, example EN for English, ID for Bahasa Indonesia, TR for Turkish",
-            "value": "EN"
+            "value": "en"
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "APPU🥰,𝑪𝒀𝑪𝑳𝑶𝑵𝜮📍🙂▶︎ ●────────── 0:0:0🥀"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
